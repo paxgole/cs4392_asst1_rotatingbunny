@@ -1,0 +1,14 @@
+# Target labels
+ nanogui-download
+# Source files and their labels
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/CMakeFiles/nanogui-download
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/CMakeFiles/nanogui-download.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/CMakeFiles/nanogui-download-complete.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-build.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-configure.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-download.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-install.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-mkdir.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-patch.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-test.rule
+/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-update.rule

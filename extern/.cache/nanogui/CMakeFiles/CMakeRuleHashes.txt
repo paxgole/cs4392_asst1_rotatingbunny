@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+d934975de591bb519c2e82e4082ddae0 CMakeFiles/nanogui-download
+39334332eaf6e16910adc4f887e08d23 CMakeFiles/nanogui-download-complete
+b9820898d4e0b88d089831da258e9406 nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-build
+e2b78fd868ae5d078ea3b421b4749403 nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-configure
+48e3a0e1cd7befb87be736b02ea3df78 nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-download
+f7d993af2d13914537ffbc25fe3ca6e0 nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-install
+51d9f9ed3cb7eddc45d673ed8b1201fc nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-mkdir
+2fd3892157f8b4172bd6e1f98c34841f nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-patch
+38d8f00f0b3a8394d6ca68b1edb6ea4c nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-test
+44c52eebc16e6be7afb39a4c1e2b1bb4 nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-update

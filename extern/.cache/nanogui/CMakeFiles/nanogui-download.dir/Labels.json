@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/CMakeFiles/nanogui-download"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/CMakeFiles/nanogui-download.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/CMakeFiles/nanogui-download-complete.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-build.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-configure.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-download.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-install.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-patch.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-test.rule"
+		},
+		{
+			"file" : "/Users/pax/College/Fall2023/CS4392/CS4392_Assignments/asst1_rotatingbunny/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nanogui-download"
+		],
+		"name" : "nanogui-download"
+	}
+}
